@@ -10,7 +10,6 @@ Just Switch Branch or click the image To See a detailed overview :)
   <img src="https://raw.githubusercontent.com/AxiomYT/Electronic-Design/70CM%2C-2M-Diplexer/V1.0.0%20Diplexer1.PNG"alt="Diplexer">
   </img>
 </a>
-[Link To Branch](https://github.com/AxiomYT/Electronic-Design/tree/70CM%2C-2M-Diplexer)
 
 ## DHCP (Dynamic Home Computational Probe PDB)
 
