@@ -21,4 +21,4 @@
 
 ## Acknowledgement
 
-![Wiring Diagram](http://iw4blg.info/2014/11/01/duplexer-2m70cm-ef03-2005/)
+[Wiring Diagram](http://iw4blg.info/2014/11/01/duplexer-2m70cm-ef03-2005/)
