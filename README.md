@@ -7,14 +7,22 @@ Just Switch Branch, click the image, or the title - to See a detailed overview :
 ## [Ham Radio V/UHF Diplexer](https://github.com/AxiomYT/Electronic-Design/tree/70CM%2C-2M-Diplexer)
 
 <a href="https://github.com/AxiomYT/Electronic-Design/tree/70CM%2C-2M-Diplexer">
-  <img src="https://raw.githubusercontent.com/AxiomYT/Electronic-Design/70CM%2C-2M-Diplexer/V1.0.0%20Diplexer1.PNG"alt="Diplexer">
+  <img src="https://raw.githubusercontent.com/AxiomYT/Electronic-Design/70CM%2C-2M-Diplexer/V1.0.0%20Diplexer1.PNG" alt="Diplexer" style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
   </img>
 </a>
 
 ## [DHCP (Dynamic Home Computational Probe PDB)](https://github.com/AxiomYT/Electronic-Design/tree/DHCP)
 
 <a href="https://github.com/AxiomYT/Electronic-Design/tree/DHCP">
-  <img src="https://raw.githubusercontent.com/AxiomYT/Electronic-Design/DHCP/V2.4.1%20DHCP2.PNG" alt="DHCP">
+  <img src="https://raw.githubusercontent.com/AxiomYT/Electronic-Design/DHCP/V2.4.1%20DHCP2.PNG" alt="DHCP" style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
   </img>
 </a>
 
