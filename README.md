@@ -2,9 +2,9 @@
 
 A collation of PCB's and 3D Printed Parts and designs created by me.
 
-Just Switch Branch To See a detailed overview :)
+Just Switch Branch or click the image To See a detailed overview :)
 
-## Ham radio V/UHF Diplexer
+## [Ham Radio V/UHF Diplexer](https://github.com/AxiomYT/Electronic-Design/tree/70CM%2C-2M-Diplexer)
 
 <a href="https://github.com/AxiomYT/Electronic-Design/tree/70CM%2C-2M-Diplexer">
   <img src="https://raw.githubusercontent.com/AxiomYT/Electronic-Design/70CM%2C-2M-Diplexer/V1.0.0%20Diplexer1.PNG"alt="Diplexer">
