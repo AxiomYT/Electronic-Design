@@ -1,5 +1,9 @@
 # Vox Duino
 
+## Wiring Diagram
+
+![Wiring Diagram](https://raw.githubusercontent.com/AxiomYT/Electronic-Design/VOX-DUINO/DuinoVOX%20Radio%20Interface.png)
+
 ## Code 
 
 ```C++
