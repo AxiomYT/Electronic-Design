@@ -1,0 +1,48 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=TNC 1.2.0
+*Date=22:09:42
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;10k;THT;34.4408;-14.7222;90;Bottom;R4
+2;;;16.3565;-22.3546;0;Bottom;Via5
+3;220;THT;7.26099;-43.7143;135;Bottom;R2
+4;;;13.921;-7.10953;0;Bottom;TXT2
+5;;cap-pth-large;16.7499;-47.7422;0;Bottom;C1
+6;;;13.8289;-19.7938;0;Bottom;Arduino Uno
+7;;;37.7051;-2.30095;0;Bottom;Hole1
+8;;;13.9816;-3.3581;0;Bottom;TXT2
+9;;;13.7259;-25.6891;0;Bottom;TXT1
+10;;;34.4907;-0.576231;0;Bottom;TXT5
+11;;cap-pth-large;31.6089;-12.5632;-90;Bottom;C2
+12;;;2.37138;-2.33595;0;Bottom;Hole4
+13;;;29.0968;-32.4891;0;Bottom;Via2
+14;;;13.68;-15.3583;0;Bottom;TXT2
+15;;;13.8117;-10.9116;0;Bottom;TXT2
+16;;THT;26.6691;-1.93489;90;Bottom;Vin
+17;;TO92 [THT];3.57999;-30.1527;90;Bottom;Q1
+18;;;31.6089;-44.9322;90;Bottom;3.5MM 4Pin
+19;;;29.871;-23.6414;0;Bottom;Via6
+20;220;THT;1.12889;-12.1822;-90;Bottom;R1
+21;;;31.885;-0.549583;0;Bottom;TXT5
+22;;;16.3886;-45.1973;0;Bottom;Via4
+23;;;14.0089;-20.4118;0;Bottom;TXT3
+24;;;33.2763;-4.93608;0;Bottom;TXT4
+25;;;38.6127;-22.7444;-90;Bottom;TXT3
+26;;THT;33.144;-2.6224;90;Bottom;J1
+27;;;2.33698;-47.6972;0;Bottom;Hole5
+28;;;24.0135;-32.4891;0;Bottom;Via3
+29;;;31.6385;-29.9474;0;Bottom;Via1
+30;;;13.7501;-29.9729;0;Bottom;TXT1
+31;220;THT;34.1489;-27.4222;90;Bottom;R3
+32;;5 mm [THT];6.93843;-46.6654;0;Bottom;LED1
+33;220;THT;26.5289;-14.7222;90;Bottom;R5
