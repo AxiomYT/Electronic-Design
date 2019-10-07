@@ -8,8 +8,11 @@
 * External Vᵢₙ or USB Bus Power
 * Activity LED / Programmable LED on pin D₁₀
 
-# Topside
+## Topside
 ![V1.3.2 Render](https://raw.githubusercontent.com/AxiomYT/Electronic-Design/TNC/1.3.2%20Render.PNG)
 
-# Rearside
+## Rearside
 ![V1.3.2 Render2](https://raw.githubusercontent.com/AxiomYT/Electronic-Design/TNC/1.3.2%20Render2.PNG)
+
+## Wiring Diagram
+![Wiring Diagram](https://raw.githubusercontent.com/AxiomYT/Electronic-Design/TNC/Wiring%20Diagram.PNG)
