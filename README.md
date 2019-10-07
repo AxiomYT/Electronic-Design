@@ -1,13 +1,6 @@
 # Vox Duino
 
-* Arduino UNO Shield
-* I2C Communication
-* TX + RX + PWR LED's
-* 10 Pin IDC RS232 Header
-* 3 Pin Temp. Sensor Header
-* Vᵢₙ 7 - 12v or USB Bus Power
-* 4x Power Rails for Ultrasonic Sensor
-* 4x ECHO + TRIG pin passthrough to Raspberry PI
+* Designed For output to Yaesu FT-707, Includes PTT Trigger, GND, Mic In and Audio Out ( Seperate 6.35mm Jack )
 
 ## Under Construction
 
