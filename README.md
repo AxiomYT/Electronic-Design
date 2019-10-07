@@ -26,13 +26,25 @@ Just Switch Branch, click the image, or the title - to See a detailed overview :
   </img>
 </a>
 
-## Terminal Node Controller
+## [Terminal Node Controller](https://github.com/AxiomYT/Electronic-Design/tree/TNC)
 
-![DHCP](https://raw.githubusercontent.com/AxiomYT/Electronic-Design/TNC/1.3.2%20Render.PNG)  
-[Link To Branch](https://github.com/AxiomYT/Electronic-Design/tree/TNC)
+<a href="https://github.com/AxiomYT/Electronic-Design/tree/TNC">
+  <img src="https://raw.githubusercontent.com/AxiomYT/Electronic-Design/TNC/1.3.2%20Render.PNG" alt="DHCP" style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
+  </img>
+</a>
 
-## Vox-Duino
+## [Vox-Duino](https://github.com/AxiomYT/Electronic-Design/tree/VOX-DUINO)
 
-![DHCP](https://raw.githubusercontent.com/AxiomYT/Electronic-Design/VOX-DUINO/E217C892-F410-4BB5-8F5F-7BCAE750C945.jpeg)  
-[Link To Branch](https://github.com/AxiomYT/Electronic-Design/tree/VOX-DUINO)
 
+<a href="https://github.com/AxiomYT/Electronic-Design/tree/VOX-DUINO">
+  <img src="https://raw.githubusercontent.com/AxiomYT/Electronic-Design/VOX-DUINO/E217C892-F410-4BB5-8F5F-7BCAE750C945.jpeg" alt="DHCP" style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
+  </img>
+</a>
