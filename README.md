@@ -1,5 +1,14 @@
 # Vox Duino
 
+* Arduino UNO Shield
+* I2C Communication
+* TX + RX + PWR LED's
+* 10 Pin IDC RS232 Header
+* 3 Pin Temp. Sensor Header
+* Vᵢₙ 7 - 12v or USB Bus Power
+* 4x Power Rails for Ultrasonic Sensor
+* 4x ECHO + TRIG pin passthrough to Raspberry PI
+
 ## Under Construction
 
 <img src="https://raw.githubusercontent.com/AxiomYT/Electronic-Design/VOX-DUINO/VOX%20Duino%20Under%20Construction.jpg" style="transform:rotate(90deg);">
@@ -9,10 +18,6 @@
 ## Wiring Diagram
 
 ![Wiring Diagram](https://raw.githubusercontent.com/AxiomYT/Electronic-Design/VOX-DUINO/DuinoVOX%20Radio%20Interface.png)
-
-## PCB
-
-
 
 ## Code 
 
