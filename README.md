@@ -21,6 +21,6 @@ Just Switch Branch To See a detailed overview :)
 
 ## Vox-Duino
 
-![DHCP](https://raw.githubusercontent.com/AxiomYT/Electronic-Design/VOX-DUINO/VOX%20Duino%20Under%20Construction.jpg)  
+![DHCP](https://raw.githubusercontent.com/AxiomYT/Electronic-Design/VOX-DUINO/E217C892-F410-4BB5-8F5F-7BCAE750C945.jpeg)  
 [Link To Branch](https://github.com/AxiomYT/Electronic-Design/tree/VOX-DUINO)
 
