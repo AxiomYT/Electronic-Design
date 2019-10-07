@@ -1,4 +1,4 @@
-# Electronic-Design
+# Electronic-Design <img src="https://www.oshwa.org/wp-content/uploads/2014/03/oshw-logo.svg" width="60" height="60" align="right"/>
 
 A collation of PCB's and 3D Printed Parts and designs created by me.
 
