@@ -1,8 +1,10 @@
 # Vox Duino
 
 ## Under Construction
-
-![Unfinished](https://raw.githubusercontent.com/AxiomYT/Electronic-Design/VOX-DUINO/VOX%20Duino%20Under%20Construction.jpg)
+<p>
+<img src="https://raw.githubusercontent.com/AxiomYT/Electronic-Design/VOX-DUINO/VOX%20Duino%20Under%20Construction.jpg" style="transform:rotate(90deg);>
+</img>
+</p>
 
 ## Wiring Diagram
 
