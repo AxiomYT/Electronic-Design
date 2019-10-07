@@ -1,0 +1,36 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Diplexer 1.0.0
+*Date=15:09:45
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;18pF;100 mil [THT, electrolytic];27.9924;-12.4134;-90;Bottom;C1
+2;18pF;100 mil [THT, electrolytic];18.1726;-3.58436;180;Bottom;C5
+3;;;38.4719;-13.3174;0;Bottom;TXT1
+4;68nH;400 mil [THT];12.6416;-14.3819;-45;Bottom;L5
+5;18pF;100 mil [THT, electrolytic];28.0507;-3.64264;180;Bottom;C4
+6;18pF;100 mil [THT, electrolytic];37.1128;-3.6135;-180;Bottom;C3
+7;;;42.6833;-11.1434;0;Bottom;Via1
+8;;sma-edge;42.7059;-18.366;90;Top;J$1
+9;;;5.73511;-15.5478;0;Bottom;TXT2
+10;;;7.50253;-1.0687;0;Bottom;TXT2
+11;100nH;400 mil [THT];21.8257;-18.3453;0;Bottom;L4
+12;;sma-edge;42.6833;-3.64624;90;Top;J$2
+13;;;6.8256;-8.01344;0;Bottom;TXT1
+14;15nH;400 mil [THT];32.8294;-8.74191;-90;Bottom;L6
+15;;400 mil [THT];23.4467;-8.71277;-90;Bottom;L7
+16;;sma-edge;2.09776;-10.8429;90;Top;J$3
+17;;;4.81324;-20.1872;0;Bottom;TXT2
+18;;;38.3707;-7.95516;0;Bottom;TXT1
+19;;;5.68395;-17.8522;0;Bottom;TXT2
+20;18pF;100 mil [THT, electrolytic];18.9302;-12.4425;-90;Bottom;C2
+21;68nH;400 mil [THT];34.2513;-18.3366;0;Bottom;L3
