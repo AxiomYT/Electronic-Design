@@ -1,0 +1,944 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<netlist sketch="DHCP V2.3.5.fz" date="Sun Sep 15 01:53:14 2019">
+ <net>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via53" id="854252430"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via53" id="854252431"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via23" id="854212010"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via23" id="854212011"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 4 pins" label="" id="854199791"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 4 pins" label="" id="854199790"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via21" id="854211091"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via21" id="854211090"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 4 pins" label="" id="854141980"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 4 pins" label="" id="854141981"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Screw terminal - 2 pins" label="" id="854154100"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Screw terminal - 2 pins" label="" id="854154101"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via52" id="854246380"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via52" id="854246381"/>
+  </connector>
+  <connector name="Pin 0" id="connector0">
+   <part title="330Ω Resistor" label="R1" id="854161500"/>
+  </connector>
+  <connector name="Pin 0" id="connector0">
+   <part title="330 Ω Resistor" label="R1" id="854161501"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via10" id="854164651"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via10" id="854164650"/>
+  </connector>
+  <connector name="Pin 0" id="connector0">
+   <part title="330Ω Resistor" label="R2" id="854163400"/>
+  </connector>
+  <connector name="Pin 0" id="connector0">
+   <part title="330 Ω Resistor" label="R2" id="854163401"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via9" id="854160640"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via9" id="854160641"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 8 pins" label="" id="60720"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 8 pins" label="" id="60721"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via32" id="854216690"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via32" id="854216691"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via31" id="854215841"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via31" id="854215840"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via5" id="854150610"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via5" id="854150611"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 4 pins" label="" id="854142130"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 4 pins" label="" id="854142131"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 4 pins" label="" id="854142140"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 4 pins" label="" id="854142141"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via3" id="854147850"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via3" id="854147851"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 4 pins" label="" id="854142150"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 4 pins" label="" id="854142151"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via4" id="854149770"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via4" id="854149771"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 4 pins" label="" id="854142120"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 4 pins" label="" id="854142121"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 4 pins" label="" id="854142070"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 4 pins" label="" id="854142071"/>
+  </connector>
+  <connector name="Pin 0" id="connector0">
+   <part title="330Ω Resistor" label="R3" id="854237510"/>
+  </connector>
+  <connector name="Pin 0" id="connector0">
+   <part title="330 Ω Resistor" label="R3" id="854237511"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 4 pins" label="" id="854199790"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 4 pins" label="" id="854199791"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 4 pins" label="" id="854142060"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 4 pins" label="" id="854142061"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 4 pins" label="" id="854141980"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 4 pins" label="" id="854141981"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="cathode" id="connector0">
+   <part title="Red (633nm) LED" label="PWR" id="854237490"/>
+  </connector>
+  <connector name="cathode" id="connector0">
+   <part title="Red LED - 5mm" label="PWR" id="854237491"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via51" id="854238190"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via51" id="854238191"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 4 pins" label="" id="854199791"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 4 pins" label="" id="854199790"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via35" id="854221041"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via35" id="854221040"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 4 pins" label="" id="854141980"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 4 pins" label="" id="854141981"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 4 pins" label="" id="854142071"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 4 pins" label="" id="854142070"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via36" id="854223171"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via36" id="854223170"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via18" id="854205901"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via18" id="854205900"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 4 pins" label="" id="854142060"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 4 pins" label="" id="854142061"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 4 pins" label="" id="854142151"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 4 pins" label="" id="854142150"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via1" id="854144881"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via1" id="854144880"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139991"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139990"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 4 pins" label="" id="854142131"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 4 pins" label="" id="854142130"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 4 pins" label="" id="854142120"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 4 pins" label="" id="854142121"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 4 pins" label="" id="854142140"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 4 pins" label="" id="854142141"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 8 pins" label="" id="60721"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 8 pins" label="" id="60720"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Screw terminal - 2 pins" label="" id="854154121"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Screw terminal - 2 pins" label="" id="854154120"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="anode" id="connector1">
+   <part title="Red (633nm) LED" label="PWR" id="854237490"/>
+  </connector>
+  <connector name="anode" id="connector1">
+   <part title="Red LED - 5mm" label="PWR" id="854237491"/>
+  </connector>
+  <connector name="Pin 1" id="connector1">
+   <part title="330Ω Resistor" label="R3" id="854237510"/>
+  </connector>
+  <connector name="Pin 1" id="connector1">
+   <part title="330 Ω Resistor" label="R3" id="854237511"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via15" id="854170670"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via15" id="854170671"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via16" id="854171260"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via16" id="854171261"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 8 pins" label="" id="854236051"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 8 pins" label="" id="854236050"/>
+  </connector>
+  <connector name="pin10" id="connector9">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139990"/>
+  </connector>
+  <connector name="pin10" id="connector9">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139991"/>
+  </connector>
+  <connector name="cathode" id="connector0">
+   <part title="Red (633nm) LED" label="TX" id="854161470"/>
+  </connector>
+  <connector name="cathode" id="connector0">
+   <part title="Red LED - 5mm" label="TX" id="854161471"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="Pin 1" id="connector1">
+   <part title="330Ω Resistor" label="R1" id="854161500"/>
+  </connector>
+  <connector name="Pin 1" id="connector1">
+   <part title="330 Ω Resistor" label="R1" id="854161501"/>
+  </connector>
+  <connector name="anode" id="connector1">
+   <part title="Red (633nm) LED" label="RX" id="854161410"/>
+  </connector>
+  <connector name="anode" id="connector1">
+   <part title="Red LED - 5mm" label="RX" id="854161411"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="Pin 1" id="connector1">
+   <part title="330Ω Resistor" label="R2" id="854163400"/>
+  </connector>
+  <connector name="Pin 1" id="connector1">
+   <part title="330 Ω Resistor" label="R2" id="854163401"/>
+  </connector>
+  <connector name="anode" id="connector1">
+   <part title="Red (633nm) LED" label="TX" id="854161470"/>
+  </connector>
+  <connector name="anode" id="connector1">
+   <part title="Red LED - 5mm" label="TX" id="854161471"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 4 pins" label="" id="854142060"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 4 pins" label="" id="854142061"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 4 pins" label="" id="854142070"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 4 pins" label="" id="854142071"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via46" id="854228861"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via46" id="854228860"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via45" id="854228760"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via45" id="854228761"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via44" id="854228441"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via44" id="854228440"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via43" id="854228340"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via43" id="854228341"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via42" id="854228021"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via42" id="854228020"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via41" id="854227811"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via41" id="854227810"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Screw terminal - 2 pins" label="" id="854154081"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Screw terminal - 2 pins" label="" id="854154080"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 4 pins" label="" id="854142060"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 4 pins" label="" id="854142061"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 4 pins" label="" id="854142070"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 4 pins" label="" id="854142071"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via37" id="854225891"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via37" id="854225890"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via38" id="854226290"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via38" id="854226291"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via39" id="854226741"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via39" id="854226740"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via40" id="854226950"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via40" id="854226951"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Screw terminal - 2 pins" label="" id="854154081"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Screw terminal - 2 pins" label="" id="854154080"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 4 pins" label="" id="854141980"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 4 pins" label="" id="854141981"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 4 pins" label="" id="854199790"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 4 pins" label="" id="854199791"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via26" id="854213091"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via26" id="854213090"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via25" id="854212770"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via25" id="854212771"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via24" id="854212561"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via24" id="854212560"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Screw terminal - 2 pins" label="" id="854154100"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Screw terminal - 2 pins" label="" id="854154101"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 4 pins" label="" id="854142140"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 4 pins" label="" id="854142141"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 4 pins" label="" id="854142130"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 4 pins" label="" id="854142131"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via30" id="854214451"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via30" id="854214450"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via29" id="854214350"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via29" id="854214351"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via28" id="854213921"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via28" id="854213920"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Screw terminal - 2 pins" label="" id="854140961"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Screw terminal - 2 pins" label="" id="854140960"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 4 pins" label="" id="854142140"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 4 pins" label="" id="854142141"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 4 pins" label="" id="854142130"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 4 pins" label="" id="854142131"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via27" id="854213710"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via27" id="854213711"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Screw terminal - 2 pins" label="" id="854140961"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Screw terminal - 2 pins" label="" id="854140960"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 4 pins" label="" id="854142120"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 4 pins" label="" id="854142121"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 4 pins" label="" id="854142150"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 4 pins" label="" id="854142151"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via50" id="854233581"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via50" id="854233580"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Screw terminal - 2 pins" label="" id="854154050"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Screw terminal - 2 pins" label="" id="854154051"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 4 pins" label="" id="854142120"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 4 pins" label="" id="854142121"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 4 pins" label="" id="854142150"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 4 pins" label="" id="854142151"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via49" id="854233481"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via49" id="854233480"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via48" id="854231420"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via48" id="854231421"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via47" id="854231321"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via47" id="854231320"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Screw terminal - 2 pins" label="" id="854154050"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Screw terminal - 2 pins" label="" id="854154051"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via17" id="854171470"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via17" id="854171471"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via20" id="854209550"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via20" id="854209551"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via19" id="854208491"/>
+  </connector>
+  <connector name="via" id="connector0">
+   <part title="Via" label="Via19" id="854208490"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 8 pins" label="" id="854236050"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 8 pins" label="" id="854236051"/>
+  </connector>
+  <connector name="cathode" id="connector0">
+   <part title="Red (633nm) LED" label="RX" id="854161410"/>
+  </connector>
+  <connector name="cathode" id="connector0">
+   <part title="Red LED - 5mm" label="RX" id="854161411"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139990"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139991"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin6" id="connector5">
+   <part title="Generic female header - 8 pins" label="" id="854236050"/>
+  </connector>
+  <connector name="pin6" id="connector5">
+   <part title="Generic female header - 8 pins" label="" id="854236051"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin8" id="connector7">
+   <part title="Generic female header - 8 pins" label="" id="854236050"/>
+  </connector>
+  <connector name="pin8" id="connector7">
+   <part title="Generic female header - 8 pins" label="" id="854236051"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 8 pins" label="" id="854236050"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 8 pins" label="" id="854236051"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin5" id="connector4">
+   <part title="Generic female header - 8 pins" label="" id="854236050"/>
+  </connector>
+  <connector name="pin5" id="connector4">
+   <part title="Generic female header - 8 pins" label="" id="854236051"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 8 pins" label="" id="854236050"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 8 pins" label="" id="854236051"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin7" id="connector6">
+   <part title="Generic female header - 8 pins" label="" id="854236050"/>
+  </connector>
+  <connector name="pin7" id="connector6">
+   <part title="Generic female header - 8 pins" label="" id="854236051"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin1" id="connector0">
+   <part title="Screw terminal - 2 pins" label="" id="854154120"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Screw terminal - 2 pins" label="" id="854154121"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 8 pins" label="" id="60721"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 8 pins" label="" id="60720"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin2" id="connector1">
+   <part title="Screw terminal - 2 pins" label="" id="854153390"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Screw terminal - 2 pins" label="" id="854153391"/>
+  </connector>
+  <connector name="pin10" id="connector9">
+   <part title="Generic female header - 10 pins" label="" id="60821"/>
+  </connector>
+  <connector name="pin10" id="connector9">
+   <part title="Generic female header - 10 pins" label="" id="60820"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin1" id="connector0">
+   <part title="Screw terminal - 2 pins" label="" id="854153390"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Screw terminal - 2 pins" label="" id="854153391"/>
+  </connector>
+  <connector name="pin9" id="connector8">
+   <part title="Generic female header - 10 pins" label="" id="60821"/>
+  </connector>
+  <connector name="pin9" id="connector8">
+   <part title="Generic female header - 10 pins" label="" id="60820"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin6" id="connector5">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139990"/>
+  </connector>
+  <connector name="pin6" id="connector5">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139991"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin8" id="connector7">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139990"/>
+  </connector>
+  <connector name="pin8" id="connector7">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139991"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin4" id="connector3">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139990"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139991"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin1" id="connector0">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139990"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139991"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin9" id="connector8">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139990"/>
+  </connector>
+  <connector name="pin9" id="connector8">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139991"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin5" id="connector4">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139990"/>
+  </connector>
+  <connector name="pin5" id="connector4">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139991"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin7" id="connector6">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139990"/>
+  </connector>
+  <connector name="pin7" id="connector6">
+   <part title="Generic shrouded header - 10 pins" label="" id="854139991"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin6" id="connector5">
+   <part title="Generic female header - 10 pins" label="" id="60820"/>
+  </connector>
+  <connector name="pin6" id="connector5">
+   <part title="Generic female header - 10 pins" label="" id="60821"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin8" id="connector7">
+   <part title="Generic female header - 10 pins" label="" id="60820"/>
+  </connector>
+  <connector name="pin8" id="connector7">
+   <part title="Generic female header - 10 pins" label="" id="60821"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 10 pins" label="" id="60820"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 10 pins" label="" id="60821"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 10 pins" label="" id="60820"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 10 pins" label="" id="60821"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 10 pins" label="" id="60820"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 10 pins" label="" id="60821"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin5" id="connector4">
+   <part title="Generic female header - 10 pins" label="" id="60820"/>
+  </connector>
+  <connector name="pin5" id="connector4">
+   <part title="Generic female header - 10 pins" label="" id="60821"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 10 pins" label="" id="60820"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 10 pins" label="" id="60821"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin7" id="connector6">
+   <part title="Generic female header - 10 pins" label="" id="60820"/>
+  </connector>
+  <connector name="pin7" id="connector6">
+   <part title="Generic female header - 10 pins" label="" id="60821"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin6" id="connector5">
+   <part title="Generic female header - 8 pins" label="" id="60720"/>
+  </connector>
+  <connector name="pin6" id="connector5">
+   <part title="Generic female header - 8 pins" label="" id="60721"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin8" id="connector7">
+   <part title="Generic female header - 8 pins" label="" id="60720"/>
+  </connector>
+  <connector name="pin8" id="connector7">
+   <part title="Generic female header - 8 pins" label="" id="60721"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 8 pins" label="" id="60720"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 8 pins" label="" id="60721"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin5" id="connector4">
+   <part title="Generic female header - 8 pins" label="" id="60720"/>
+  </connector>
+  <connector name="pin5" id="connector4">
+   <part title="Generic female header - 8 pins" label="" id="60721"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin7" id="connector6">
+   <part title="Generic female header - 8 pins" label="" id="60720"/>
+  </connector>
+  <connector name="pin7" id="connector6">
+   <part title="Generic female header - 8 pins" label="" id="60721"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin6" id="connector5">
+   <part title="Generic female header - 6 pins" label="" id="61740"/>
+  </connector>
+  <connector name="pin6" id="connector5">
+   <part title="Generic female header - 6 pins" label="" id="61741"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 6 pins" label="" id="61740"/>
+  </connector>
+  <connector name="pin4" id="connector3">
+   <part title="Generic female header - 6 pins" label="" id="61741"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 6 pins" label="" id="61740"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part title="Generic female header - 6 pins" label="" id="61741"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 6 pins" label="" id="61740"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="Generic female header - 6 pins" label="" id="61741"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin5" id="connector4">
+   <part title="Generic female header - 6 pins" label="" id="61740"/>
+  </connector>
+  <connector name="pin5" id="connector4">
+   <part title="Generic female header - 6 pins" label="" id="61741"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 6 pins" label="" id="61740"/>
+  </connector>
+  <connector name="pin3" id="connector2">
+   <part title="Generic female header - 6 pins" label="" id="61741"/>
+  </connector>
+ </net>
+</netlist>
