@@ -17,7 +17,7 @@
 
 ## Wiring Diagram
 
-![Wiring Diagram](https://raw.githubusercontent.com/AxiomYT/Electronic-Design/70CM%2C-2M-Diplexer/V1.0.0%20Diplexer%20Diagram.gif)
+![Wiring Diagram](https://raw.githubusercontent.com/AxiomYT/Electronic-Design/70CM%2C-2M-Diplexer/V1.0.0%20Diplexer%20Diagram.jpg)
 
 ## Acknowledgement
 
