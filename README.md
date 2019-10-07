@@ -2,7 +2,12 @@
 
 * Designed For output to Yaesu FT-707, Includes PTT Trigger, GND, Mic In and Audio Out ( Seperate 6.35mm Jack )
 
-## Under Construction
+## Exterior (V2.0.0)
+
+<img src="https://raw.githubusercontent.com/AxiomYT/Electronic-Design/VOX-DUINO/E217C892-F410-4BB5-8F5F-7BCAE750C945.jpeg" style="transform:rotate(90deg);">
+</img>
+
+## Under Construction (V1.0.0)
 
 <img src="https://raw.githubusercontent.com/AxiomYT/Electronic-Design/VOX-DUINO/VOX%20Duino%20Under%20Construction.jpg" style="transform:rotate(90deg);">
 </img>
