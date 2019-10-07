@@ -1,5 +1,10 @@
 # 70cm - 2M Diplexer
 
+* Implements frequency-domain multiplexing. Two input ports (2M, 70CM) are multiplexed onto a third port (OUT)
+* the signals on L and H can coexist on port S without interfering with each other.
+* the signal on 2M Port will occupy the VHF Band and the signal on the 70CM will occupy THE UHF band.
+* the diplexer consists of a lowpass filter connecting 70CM Port and OUT 
+* and a high pass filter connecting 2M Port and OUT.
 ## PCB
 
 ### Topside
