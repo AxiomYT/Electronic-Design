@@ -63,3 +63,7 @@ void loop()
   
 }
 ```
+
+## Acknowledgement
+
+[KB9RLW's Blogspot](http://kb9rlw.blogspot.com/2016/08/cheap-and-easy-to-build-digital-modes.html)
