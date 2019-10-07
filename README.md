@@ -16,3 +16,7 @@
 ## Wiring Diagram
 
 ![JK](https://raw.githubusercontent.com/AxiomYT/Electronic-Design/DHCP/Joke%20Diagram.png)
+
+## Acknowledgement 
+
+[I Designed with no Diagram in mind](https://xkcd.com/730/)
