@@ -2,6 +2,7 @@
 
 ## PCB
 
+* Arduino Nano Onboard
 * I2C Communication
 * 3.5mm 4 Pole Breakout ( Originally designed for a Yaesu Vertex VX-150, Can be directly soldered to )
 * External Vᵢₙ or USB Bus Power
