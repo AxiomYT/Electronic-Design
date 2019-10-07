@@ -14,3 +14,11 @@
 ### Rearside
 
 ![Rearside](https://raw.githubusercontent.com/AxiomYT/Electronic-Design/70CM%2C-2M-Diplexer/V1.0.0%20Diplexer2.PNG)
+
+## Wiring Diagram
+
+![Wiring Diagram](https://raw.githubusercontent.com/AxiomYT/Electronic-Design/70CM%2C-2M-Diplexer/V1.0.0%20Diplexer%20Diagram.gif)
+
+## Acknowledgement
+
+![Wiring Diagram](http://iw4blg.info/2014/11/01/duplexer-2m70cm-ef03-2005/)
